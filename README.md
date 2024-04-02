@@ -1,4 +1,4 @@
-# hashbin
+# paste-production
 
 This is an opensource hashbin where we can securely send messages via internet anonymously..
 
